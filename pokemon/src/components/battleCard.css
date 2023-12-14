@@ -1,0 +1,21 @@
+.crd {
+  /* border: 1px solid rgb(8, 27, 134); */
+  max-width: 45%;
+  text-align: center;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.5);
+}
+.crd img {
+  /* border: 1px solid black; */
+  max-width: 33%;
+}
+
+.crd h3 {
+  transition: transform 0.2s;
+  margin-bottom: 0.7rem;
+}
+.crd h3:hover {
+  cursor: pointer;
+  transform: scale(1.5);
+}

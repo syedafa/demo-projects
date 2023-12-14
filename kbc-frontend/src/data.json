@@ -1,0 +1,153 @@
+[
+  {
+    "id": 1,
+    "question": "What is Moin Ali Khan's favourite Habbit ?",
+    "answers": [
+      { "text": "Sleeping", "correct": false },
+      { "text": "Working", "correct": false },
+      { "text": "Playing", "correct": false },
+      { "text": "Asking others to do his work", "correct": true }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What is the role of meera gani in msys ?",
+    "answers": [
+      { "text": "House keeping", "correct": false },
+      { "text": "IT ", "correct": true },
+      { "text": "Frontend developer", "correct": false },
+      { "text": " Backend developer", "correct": false }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Which language we can use for Both frontend and backend ?",
+    "answers": [
+      { "text": "java", "correct": false },
+      { "text": "ruby", "correct": false },
+      { "text": "java script", "correct": true },
+      { "text": "R", "correct": false }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "what is the color of a white rabit",
+    "answers": [
+      { "text": "white", "correct": true },
+      { "text": "black", "correct": false },
+      { "text": " grey", "correct": false },
+      { "text": " red", "correct": false }
+    ]
+  },
+
+  {
+    "id": 6,
+    "question": "The International Literacy Day is observed on",
+    "answers": [
+      { "text": "Sep 8", "correct": true },
+      { "text": "Nov 28", "correct": false },
+      { "text": "May 2", "correct": false },
+      { "text": "Sep 22", "correct": false }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "The language of Lakshadweep. a Union Territory of India, is",
+    "answers": [
+      { "text": "Tamil", "correct": false },
+      { "text": "Hindi", "correct": false },
+      { "text": "Malayalam", "correct": true },
+      { "text": "Telugu", "correct": false }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "In which group of places the Kumbha Mela is held every twelve years?",
+    "answers": [
+      { "text": "Ujjain. Purl; Prayag. Haridwar", "correct": false },
+      { "text": "Prayag. Haridwar, Ujjain,. Nasik", "correct": true },
+      { "text": "Rameshwaram. Purl, Badrinath. Dwarika", "correct": false },
+      { "text": "Chittakoot, Ujjain, Prayag,'Haridwar", "correct": false }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Bahubali festival is related to",
+    "answers": [
+      { "text": "Islam", "correct": false },
+      { "text": "Hinduism", "correct": false },
+      { "text": "Buddhism", "correct": false },
+      { "text": "Jainism", "correct": true }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Which day is observed as the World Standards  Day?",
+    "answers": [
+      { "text": "June 26", "correct": false },
+      { "text": "Oct 14", "correct": true },
+      { "text": "Nov 15", "correct": false },
+      { "text": "Dec 2", "correct": false }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Which of the following was the theme of the World Red Cross and Red Crescent Day?",
+    "answers": [
+      { "text": "'Dignity for all - focus on women'", "correct": false },
+      { "text": "Dignity for all - focus on Children'", "correct": true },
+      { "text": "Focus on health for all", "correct": false },
+      { "text": "Nourishment for all-focus on children", "correct": false }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "September 27 is celebrated every year as",
+    "answers": [
+      { "text": "Teachers' Day", "correct": false },
+      { "text": "National Integration Day", "correct": false },
+      { "text": "World Tourism Day", "correct": true },
+      { "text": "International Literacy Day", "correct": false }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Who is the author of 'Manas Ka-Hans' ?",
+    "answers": [
+      { "text": "Khushwant Singh", "correct": false },
+      { "text": "Prem Chand", "correct": false },
+      { "text": "Jayashankar Prasad", "correct": false },
+      { "text": "Amrit Lal Nagar", "correct": true }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "The death anniversary of which of the following leaders is observed as Martyrs' Day?",
+    "answers": [
+      { "text": "Smt. Indira Gandhi", "correct": false },
+      { "text": "PI. Jawaharlal Nehru", "correct": false },
+      { "text": "Mahatma Gandhi", "correct": true },
+      { "text": "Lal Bahadur Shastri", "correct": false }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Who is the author of the epic 'Meghdoot'?",
+    "answers": [
+      { "text": "Vishakadatta", "correct": false },
+      { "text": "Valmiki", "correct": false },
+      { "text": "Banabhatta", "correct": false },
+      { "text": "Kalidas", "correct": true }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Good Friday' is observed to commemorate the event of",
+    "answers": [
+      { "text": "birth of Jesus Christ", "correct": false },
+      { "text": "birth of' St. Peter", "correct": false },
+      { "text": "crucification 'of Jesus Christ", "correct": true },
+      { "text": "rebirth of Jesus Christ", "correct": false }
+    ]
+  }
+]

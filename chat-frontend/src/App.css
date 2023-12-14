@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,300&family=Work+Sans:wght@300&display=swap");
+.App {
+  min-height: 100vh;
+  display: flex;
+  background-image: url("https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-size: cover;
+  background-position: center;
+}

@@ -1,0 +1,33 @@
+.create {
+  margin: 50px;
+}
+.addQuestion {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.quest {
+  width: 50%;
+  margin: 10px;
+  height: 50px;
+  text-align: center;
+  border-radius: 5px;
+  border: 1px solid grey;
+}
+.ans {
+  width: 25%;
+  margin: 10px;
+  height: 40px;
+  text-align: center;
+  border-radius: 5px;
+  border: 1px solid grey;
+}
+.quest,
+.ans:focus {
+  outline: none;
+}
+.addQuestion button:hover {
+  cursor: pointer;
+}

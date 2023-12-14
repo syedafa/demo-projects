@@ -1,0 +1,17 @@
+[
+  { "id": 1, "amount": "1000 rs" },
+  { "id": 2, "amount": "2000 rs" },
+  { "id": 3, "amount": "3000 rs" },
+  { "id": 4, "amount": "5000 rs" },
+  { "id": 5, "amount": "10000 rs" },
+  { "id": 6, "amount": "20000 rs" },
+  { "id": 7, "amount": "40000 rs" },
+  { "id": 8, "amount": "80000 rs" },
+  { "id": 9, "amount": "160000 rs" },
+  { "id": 10, "amount": "320000 rs" },
+  { "id": 11, "amount": "640000 rs" },
+  { "id": 12, "amount": "1250000 rs" },
+  { "id": 13, "amount": "2500000 rs" },
+  { "id": 14, "amount": "5000000 rs" },
+  { "id": 15, "amount": "10000000 rs" }
+]

@@ -1,0 +1,45 @@
+.sprints-container {
+  width: 100%;
+}
+.chart-indicators-container {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
+.chart-indicators {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.icon {
+  height: 14px;
+  width: 14px;
+  border-radius: 50%;
+}
+.issue-open {
+  background-color: #404040;
+}
+.issue-started {
+  background-color: #808080;
+}
+.issue-completed {
+  background-color: #d3d3d3;
+}
+.label {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 5px;
+  color: #808080;
+}
+.label-heading {
+  font-weight: bold;
+}
+.area-heading {
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+  color: #808080;
+  font-size: 16px;
+  margin-right: 10px;
+}
